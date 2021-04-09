@@ -16,7 +16,7 @@ This is a subscription manage bot for telegram.
 
 <p align="center">
   <a href="https://github.com/OliverGrace/python-telegram-SpeedCentreTestBot/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo/image.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">SpeedCentreTestBot</h3>
