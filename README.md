@@ -74,11 +74,15 @@ pip3 install python-telegram-bot
 git clone https://github.com/OliverGrace/python-telegram-SpeedCentreTestBot.git
 ```
 
-3.启动.py脚本程序并在后台运行
+3. 修改main.py中的BOT_TOKEN为自己的TOKEN，并修改myuserid为自己的ID
+
+
+4. 启动.py脚本程序并在后台运行
 
 ```sh
 nohup python3 main.py &
 ```
+
 ### 文件目录说明
 
 ```
