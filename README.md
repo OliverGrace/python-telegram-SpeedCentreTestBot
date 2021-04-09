@@ -50,7 +50,6 @@ This is a subscription manage bot for telegram.
   - [如何参与开源项目](#如何参与开源项目)
 - [版本控制](#版本控制)
 - [作者](#作者)
-- [鸣谢](#鸣谢)
 
 ### 上手指南
 
