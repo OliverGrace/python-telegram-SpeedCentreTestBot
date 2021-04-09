@@ -103,7 +103,6 @@ filetree
 ├── get_link.py
 ├── listname.py
 ├── main.py
-├── timer.py
 ├── sub.txt
 ├── sub_found.txt
 └── access.txt
