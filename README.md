@@ -127,8 +127,8 @@ OliverGrace
 
 ### 作者
 
-OliverGrace@OliverGrace
-1328780068@qq.com
+OliverGrace  
+1328780068@qq.com  
 qq:1328780068    
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
