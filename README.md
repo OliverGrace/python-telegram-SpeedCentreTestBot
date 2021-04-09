@@ -82,6 +82,17 @@ git clone https://github.com/OliverGrace/python-telegram-SpeedCentreTestBot.git
 nohup python3 main.py &
 ```
 
+5. 向TelegramBotFather中你的Bot命令编辑发送以下字段：
+
+```sh
+listname-/listname查看所有机场名  
+getlink-/getlink <搜索关键字>查看机场订阅链接  
+addaccess-/addaccess <id>增加访问权限  
+add-/add <机场名>+空格+<链接>添加订阅  
+random-/random+空格+<个数（可选）>随机抽一个机场  
+convert-/convert+空格+链接转换成Clash订阅  
+```
+
 ### 文件目录说明
 
 ```
