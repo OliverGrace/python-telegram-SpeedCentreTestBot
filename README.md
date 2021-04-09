@@ -135,7 +135,7 @@ qq:1328780068
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/OliverGrace/python-telegram-SpeedCentreTestBot/blob/master/LICENSE.txt)
+该项目签署了MIT授权许可，详情请参阅 [LICENSE.txt](https://github.com/OliverGrace/python-telegram-SpeedCentreTestBot/blob/master/LICENSE.txt)
 
 <!-- links -->
 [your-project-path]:OliverGrace/python-telegram-SpeedCentreTestBot
