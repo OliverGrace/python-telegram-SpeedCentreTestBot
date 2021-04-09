@@ -45,7 +45,7 @@ This is a subscription manage bot for telegram.
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
-- [使用到的框架](#使用到的框架)
+- [使用到的框架](#使用到的模块)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
 - [版本控制](#版本控制)
@@ -100,7 +100,7 @@ filetree
 
 ```
 
-### 使用到的框架
+### 使用到的模块
 
 - [python-telegram-bot](https://python-telegram-bot.org)
 
